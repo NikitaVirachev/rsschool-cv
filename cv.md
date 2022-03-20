@@ -45,3 +45,7 @@ function solution(str){
     * Software engineering
 * **Master, National research university "MPEI", Moscow**
     * Information and Computing Technologies
+
+## Language
+
+English level - A1
