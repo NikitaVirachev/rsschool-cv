@@ -38,3 +38,10 @@ function solution(str){
     return result;
 }
 ```
+
+## Education
+
+* **Bachelor, MIREA - Russian Technological University, Moscow**
+    * Software engineering
+* **Master, National research university "MPEI", Moscow**
+    * Information and Computing Technologies
